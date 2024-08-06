@@ -3,6 +3,7 @@
  - axelade-phuture_noize.csv ([Top 20 Phuture Noize Tracks](https://www.youtube.com/watch?v=GWGoLlsn_u4))
  - axelade-sub_zero_project_qlimax_2017.csv ([|HARDSTYLE DROPS ONLY| Sub Zero Project @ Qlimax 2017](https://www.youtube.com/watch?v=lzvz7Fi3PJo))
  - axelade-top_100.csv ([My Top 100 Hardstyle Tracks Of All Time](https://www.youtube.com/watch?v=XMjpIQDw7tY))
+ - edm_song_sub_zero_project_defqon_2024.csv ([Sub Zero Project | Red Stage, Defqon.1 2024 | Drops Only 🔥⚡](https://www.youtube.com/watch?v=RA7IW5VG7T8))
  - evoist-headhunterz_qlimax_2014.csv ([HEADHUNTERZ Qlimax 2014 live Setmovie the source of creation](https://www.youtube.com/watch?v=5ZBn7ztfh4Y))
  - hard_city-2010_2020.csv ([Hardstyle Top 100 Of The Decade (2010-2020)](https://www.youtube.com/watch?v=s-asmQg2j30))
  - hard_city-phuture_noize.csv ([Hardstyle Top 30 Of Phuture Noize](https://www.youtube.com/watch?v=-Uwk2qAtobQ))
