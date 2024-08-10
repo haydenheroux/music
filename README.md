@@ -16,5 +16,6 @@
 | [Reverze \| Anthems 2006 - 2023](https://www.youtube.com/watch?v=MNiZnlTIRW0) | `reverze-anthems.csv` |
 | [Sub Zero Project \| Red Stage, Defqon.1 2024 \| Drops Only 🔥⚡](https://www.youtube.com/watch?v=RA7IW5VG7T8) | `edm_song_sub_zero_project_defqon_2024.csv` |
 | [Top 20 Phuture Noize Tracks](https://www.youtube.com/watch?v=GWGoLlsn_u4)) | `axelade-phuture_noize.csv` |
+| [\[DROPS ONLY\] D-Sturb @ End Of Line LIVE](https://www.youtube.com/watch?v=4vjHpBBgUDc) | `dedication-d_sturb_end_of_line.csv` |
 | [\|HARDSTYLE DROPS ONLY\| Sub Zero Project @ Qlimax 2017](https://www.youtube.com/watch?v=lzvz7Fi3PJo) | `axelade-sub_zero_project_qlimax_2017.csv` |
 | [mirror society.](https://www.youtube.com/@mirror-society/videos) | `mirror_society.csv` |
