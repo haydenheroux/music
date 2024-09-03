@@ -19,3 +19,4 @@
 | [\[DROPS ONLY\] D-Sturb @ End Of Line LIVE](https://www.youtube.com/watch?v=4vjHpBBgUDc) | `dedication-d_sturb_end_of_line.csv` |
 | [\|HARDSTYLE DROPS ONLY\| Sub Zero Project @ Qlimax 2017](https://www.youtube.com/watch?v=lzvz7Fi3PJo) | `axelade-sub_zero_project_qlimax_2017.csv` |
 | [mirror society.](https://www.youtube.com/@mirror-society/videos) | `mirror_society.csv` |
+| [Drops Only \| Bass Modulators @ Mysteryland 2020, Let's Get High](https://www.youtube.com/watch?v=jDNeK2TZu_k) | `orange_drops-mass_modulators_mysteryland_2020.csv` |
