@@ -1,0 +1,21 @@
+#!/bin/bash
+
+if [ "$#" -ne 2 ]; then
+    echo "./diff [keys] [directory]"
+    exit 1
+fi
+
+TEMP=$(mktemp -d -p .)
+
+KEYS="$TEMP/keys"
+DOWNLOADED="$TEMP/downloaded"
+
+sort $1 > $KEYS
+find $2 -type f | cut -d'/' -f2 | cut -d'.' -f1 | sort > $DOWNLOADED
+
+# Show keys that are in the reference key set but not downloaded
+comm -23 $KEYS $DOWNLOADED
+
+rm $KEYS $DOWNLOADED
+
+rmdir "$TEMP"
