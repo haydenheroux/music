@@ -1,0 +1,8 @@
+#!/bin/sh
+
+if [ "$#" -ne 1 ]; then
+    echo "missing argument"
+    exit 1
+fi
+
+sort -k 2,3 -t , $1 -o $1

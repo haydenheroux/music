@@ -1,0 +1,12 @@
+#!/bin/bash
+
+if [ "$#" -ne 1 ]; then
+    echo "missing argument"
+    exit 1
+fi
+
+TEMP=$(mktemp -d -p .)
+
+split -l 100 -d $1 "$TEMP/"
+
+find "$TEMP" -type f
