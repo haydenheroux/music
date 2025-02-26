@@ -1,0 +1,16 @@
+#!/bin/bash
+
+if [ -z "$1" ]; then
+    echo "$0 [reference file]"
+    exit 1
+fi
+
+OUT=$(basename "$1" | cut -d. -f1)
+IDS="$OUT.ids"
+MISSING="$OUT.missing"
+
+media list -r "$1" > "$IDS"
+mkdir "$OUT"
+media missing -d "$OUT" -i "$IDS" > "$MISSING"
+media download -r "$1" -i "$MISSING" -d yt-dlp -f mp3 -o "$OUT"
+rm "$IDS" "$MISSING"
